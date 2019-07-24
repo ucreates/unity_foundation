@@ -1,0 +1,14 @@
+{
+    "name": "com.ucreates.foundation",
+    "displayName": "Foundation(Unity)",
+    "version": "1.0.0",
+    "unity": "2018.4.0f1",
+    "description": "Foundation for Unity",
+    "keywords": ["Scripts", "Foundation"],
+    "category": "Scripts",
+    "dependencies": { },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ucreates/unity_foundation.git"
+    }
+}    
